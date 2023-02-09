@@ -1,0 +1,6 @@
+#below are needed to work on FASTAPI
+
+fastAPI
+sqlalchemy
+uvicorn
+pydantic
